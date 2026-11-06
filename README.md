@@ -4,7 +4,7 @@ I'm a banking executive who has always liked seeing how things run. I build work
 
 | Project | What it shows |
 | --- | --- |
-| [Bird Audio Identifier](https://github.com/copezetic/bird-audio-identifier) | An always-on Raspberry Pi and audio model, including how I handled its false positives |
+| [Bird Audio Identifier](https://github.com/copezetic/bird-audio-identifier) | An always-on Raspberry Pi and audio model, Links to a logbook to graph and chart |
 | [Prospecting System Overview](https://github.com/copezetic/prospecting-system-overview) | How I built a 70,000-record database with compliance checks in code |
 | [Home App Launcher](https://github.com/copezetic/home-app-launcher) | One screen for every app in my house, driven by a TV remote |
 | [Family Tree Explorer](https://github.com/copezetic/family-tree-explorer) | A searchable family tree with privacy rules for living people, shown with made-up data |
